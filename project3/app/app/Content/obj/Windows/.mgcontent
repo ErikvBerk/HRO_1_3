@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/erikv/Desktop/Skills/project3/app/app/Content/File.spritefont</File>
+    <File>C:/Users/erikv/Desktop/Skills/project3/app/app/Content/basemap.jpg</File>
+    <File>C:/Users/erikv/Desktop/Skills/project3/app/app/Content/Centrum.png</File>
+    <File>C:/Users/erikv/Desktop/Skills/project3/app/app/Content/Charlois.png</File>
+    <File>C:/Users/erikv/Desktop/Skills/project3/app/app/Content/Delftshaven.png</File>
+    <File>C:/Users/erikv/Desktop/Skills/project3/app/app/Content/Feyenoord.png</File>
+    <File>C:/Users/erikv/Desktop/Skills/project3/app/app/Content/Hillegersberg-Schiebroek.png</File>
+    <File>C:/Users/erikv/Desktop/Skills/project3/app/app/Content/Ijsselmonde.png</File>
+    <File>C:/Users/erikv/Desktop/Skills/project3/app/app/Content/Kralingen-Crooswijk.png</File>
+    <File>C:/Users/erikv/Desktop/Skills/project3/app/app/Content/Noord.png</File>
+    <File>C:/Users/erikv/Desktop/Skills/project3/app/app/Content/Overschie.png</File>
+    <File>C:/Users/erikv/Desktop/Skills/project3/app/app/Content/Prins Alexander.png</File>
+    <File>C:/Users/erikv/Desktop/Skills/project3/app/app/Content/Centrum diagram.PNG</File>
+    <File>C:/Users/erikv/Desktop/Skills/project3/app/app/Content/Charlois diagram.PNG</File>
+    <File>C:/Users/erikv/Desktop/Skills/project3/app/app/Content/Feyenoord diagram.PNG</File>
+    <File>C:/Users/erikv/Desktop/Skills/project3/app/app/Content/Hillegersberg-Schiebroek diagram.png</File>
+    <File>C:/Users/erikv/Desktop/Skills/project3/app/app/Content/IJselmonde diagram.PNG</File>
+    <File>C:/Users/erikv/Desktop/Skills/project3/app/app/Content/Kralingen-Crooswijk diagram.png</File>
+    <File>C:/Users/erikv/Desktop/Skills/project3/app/app/Content/Noord diagram.PNG</File>
+    <File>C:/Users/erikv/Desktop/Skills/project3/app/app/Content/Overschie diagram.png</File>
+    <File>C:/Users/erikv/Desktop/Skills/project3/app/app/Content/Prins-Alexander diagram.png</File>
+    <File>C:/Users/erikv/Desktop/Skills/project3/app/app/Content/Legenda.png</File>
+    <File>C:/Users/erikv/Desktop/Skills/project3/app/app/Content/Delftshaven diagram.PNG</File>
+  </SourceFiles>
+</SourceFileCollection>

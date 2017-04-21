@@ -1,0 +1,158 @@
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\Content\3115-2.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\Content\Delfsthaven diagram.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\Content\basemap.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\Content\Centrum diagram.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\Content\Centrum.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\Content\Charlois diagram.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\Content\Charlois.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\Content\Delftshaven diagram.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\Content\Delftshaven.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\Content\Feyenoord diagram.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\Content\Feyenoord.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\Content\Hillegersberg-Schiebroek diagram.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\Content\Hillegersberg-Schiebroek.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\Content\IJselmonde diagram.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\Content\Ijsselmonde.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\Content\Kralingen-Crooswijk diagram.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\Content\Kralingen-Crooswijk.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\Content\Legenda.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\Content\Noord diagram.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\Content\Noord.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\Content\Overschie diagram.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\Content\Overschie.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\Content\Prins Alexander.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\Content\Prins-Alexander diagram.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\app.exe.config
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\app.exe
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\app.pdb
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\MySql.Data.dll
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\Npgsql.pdb
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\Npgsql.xml
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\obj\x86\Debug\Homestead.csprojResolveAssemblyReference.cache
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\obj\x86\Debug\app.exe
+C:\Users\sibre\OneDrive\Documenten\studie\project 3\final app\app\app\obj\x86\Debug\app.pdb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\app.exe.config
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\obj\x86\Debug\app.exe
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\obj\x86\Debug\app.pdb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Content\3115-2.xnb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Content\Delfsthaven diagram.xnb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Content\basemap.xnb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Content\Centrum diagram.xnb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Content\Centrum.xnb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Content\Charlois diagram.xnb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Content\Charlois.xnb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Content\Delftshaven diagram.xnb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Content\Delftshaven.xnb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Content\Feyenoord diagram.xnb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Content\Feyenoord.xnb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Content\Hillegersberg-Schiebroek diagram.xnb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Content\Hillegersberg-Schiebroek.xnb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Content\IJselmonde diagram.xnb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Content\Ijsselmonde.xnb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Content\Kralingen-Crooswijk diagram.xnb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Content\Kralingen-Crooswijk.xnb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Content\Legenda.xnb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Content\Noord diagram.xnb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Content\Noord.xnb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Content\Overschie diagram.xnb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Content\Overschie.xnb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Content\Prins Alexander.xnb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Content\Prins-Alexander diagram.xnb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\app.exe
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\app.pdb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\MySql.Data.dll
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Npgsql.dll
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Npgsql.pdb
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\Npgsql.xml
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\erikv\Downloads\final app-20170420T082220Z-001\final app\app\app\obj\x86\Debug\Homestead.csprojResolveAssemblyReference.cache
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\app.exe.config
+C:\Users\erikv\Desktop\Skills\project3\app\app\obj\x86\Debug\app.exe
+C:\Users\erikv\Desktop\Skills\project3\app\app\obj\x86\Debug\app.pdb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Content\3115-2.xnb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Content\Delfsthaven diagram.xnb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Content\basemap.xnb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Content\Centrum diagram.xnb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Content\Centrum.xnb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Content\Charlois diagram.xnb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Content\Charlois.xnb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Content\Delftshaven diagram.xnb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Content\Delftshaven.xnb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Content\Feyenoord diagram.xnb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Content\Feyenoord.xnb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Content\Hillegersberg-Schiebroek diagram.xnb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Content\Hillegersberg-Schiebroek.xnb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Content\IJselmonde diagram.xnb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Content\Ijsselmonde.xnb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Content\Kralingen-Crooswijk diagram.xnb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Content\Kralingen-Crooswijk.xnb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Content\Legenda.xnb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Content\Noord diagram.xnb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Content\Noord.xnb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Content\Overschie diagram.xnb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Content\Overschie.xnb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Content\Prins Alexander.xnb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Content\Prins-Alexander diagram.xnb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\app.exe
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\app.pdb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\MySql.Data.dll
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Npgsql.dll
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Npgsql.pdb
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\Npgsql.xml
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\erikv\Desktop\Skills\project3\app\app\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\erikv\Desktop\Skills\project3\app\app\obj\x86\Debug\Homestead.csprojResolveAssemblyReference.cache
