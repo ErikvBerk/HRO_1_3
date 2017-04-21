@@ -1,0 +1,11 @@
+c:\users\erikv\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\Bing_Navigator.Custom_navigation.resources
+c:\users\erikv\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\erikv\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\Bing_Navigator.csproj.GenerateResource.Cache
+c:\users\erikv\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Bing_Navigator.exe.config
+c:\users\erikv\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Bing_Navigator.exe
+c:\users\erikv\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Bing_Navigator.pdb
+c:\users\erikv\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\Bing_Navigator.exe
+c:\users\erikv\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\Bing_Navigator.pdb
+C:\Users\erikv\Desktop\Programming\Own projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Bing_Navigator.exe.config
+C:\Users\erikv\Desktop\Programming\Own projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\Bing_Navigator.exe
+C:\Users\erikv\Desktop\Programming\Own projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\Bing_Navigator.pdb
